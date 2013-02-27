@@ -20,6 +20,8 @@ Where to start?
 
 The adventure is just beginning. Nobody knows where this will take us.
 
+If you want to join, go here: https://github.com/jshacks/command-center/issues/2
+
 To suggest a project you are wishing to start, create a new issue in this repo.
 To participate in project(s) just join the discussion in the issue.
 
